@@ -1,2 +1,2 @@
-spring.application.name=config-server
+spring.application.name=Microservices-for-Job-Application-demo
 eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka
